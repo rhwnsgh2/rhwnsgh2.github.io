@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Feb 2021 05:09:57 +0900</pubDate>
-    <lastBuildDate>Tue, 16 Feb 2021 05:09:57 +0900</lastBuildDate>
+    <pubDate>Thu, 18 Feb 2021 02:16:59 +0900</pubDate>
+    <lastBuildDate>Thu, 18 Feb 2021 02:16:59 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -16,6 +16,22 @@
         <pubDate>Mon, 20 Apr 2015 17:43:59 +0900</pubDate>
         <link>http://localhost:4000/jekyll/2015/04/20/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/2015/04/20/welcome-to-jekyll.html</guid>
+        
+        <category>jekyll</category>
+        
+        <category>welcome</category>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different...</description>
+        <pubDate>Mon, 20 Apr 2015 17:43:59 +0900</pubDate>
+        <link>http://localhost:4000/jekyll/2015/04/20/welcome-to-jekyll-copy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2015/04/20/welcome-to-jekyll-copy.html</guid>
         
         <category>jekyll</category>
         
@@ -36,6 +52,21 @@
         <category>lorem</category>
         
         <category>ipsum</category>
+        
+        
+        <category>Dummy</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Post</title>
+        <description>&lt;p&gt;파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음.
+&lt;a href=&quot;https://coupa.ng/bRM7qC&quot; style=&quot;display:none&quot; target=&quot;_blank&quot; referrerpolicy=&quot;unsafe-url&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://coupa.ng/bRNa4w&quot; width=&quot;120&quot; height=&quot;240&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; referrerpolicy=&quot;unsafe-url&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
+        <link>http://localhost:4000/dummy/2015/04/19/product1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/product1.html</guid>
         
         
         <category>Dummy</category>
@@ -120,18 +151,6 @@
         <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
         <link>http://localhost:4000/dummy/2015/04/19/dummy2.html</link>
         <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy2.html</guid>
-        
-        
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
-        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
-        <link>http://localhost:4000/dummy/2015/04/19/dummy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy.html</guid>
         
         
         <category>Dummy</category>

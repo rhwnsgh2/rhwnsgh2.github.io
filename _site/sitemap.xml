@@ -29,8 +29,16 @@
 <lastmod>2015-04-19T04:25:52+09:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/dummy/2015/04/19/product1.html</loc>
+<lastmod>2015-04-19T04:25:52+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/dummy/2015/04/19/dummy6.html</loc>
 <lastmod>2015-04-19T17:43:59+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll/2015/04/20/welcome-to-jekyll-copy.html</loc>
+<lastmod>2015-04-20T17:43:59+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/jekyll/2015/04/20/welcome-to-jekyll.html</loc>
